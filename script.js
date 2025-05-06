@@ -11,8 +11,6 @@ while (initialWeight > targetWeight) {
   days++;
 }
 
-console.log(days)
-
 
 //   Инициализация переменных:
 //   initialWeight устанавливается в 6000 граммов. Это начальный вес.
